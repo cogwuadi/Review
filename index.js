@@ -37,7 +37,7 @@ let prevBtn = document.querySelector("#prev-btn");
 let nextBtn = document.querySelector("#next-btn");
 
 // set starting item
-let currentItem = 0;
+let currentItem = 5;
 
 // load initial item
 window.addEventListener("DOMContentLoaded", function () {

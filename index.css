@@ -6,12 +6,15 @@
     list-style: none;
     text-decoration: none;
     text-align: center;
-    /* width: 70%; */
-    /* height: 10vh; */
 }
 
 main{
     margin-top: 100px;
+}
+
+h2{
+    width:40%;
+    margin-left: 420px;
 }
 
 .review{
